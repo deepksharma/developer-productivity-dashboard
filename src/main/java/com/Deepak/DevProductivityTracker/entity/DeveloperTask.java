@@ -22,6 +22,7 @@ public class DeveloperTask {
     private Long id;
 
     private String developerName;
+    private String title;
     private String taskDescription;
     private String status;
     private LocalDate assignDate;
